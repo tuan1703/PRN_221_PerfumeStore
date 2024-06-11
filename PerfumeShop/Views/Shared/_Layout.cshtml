@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume Store</title>
+    <link rel="stylesheet" href="~/css/Style.css">
+</head>
+<body>
+    @RenderBody()
+    <header>
+        <div class="logo">PerfumeStore</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Cart</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+        </div>
+        <div class="account">
+            <a href="#">Login</a>
+        </div>
+    </header>
+
+    <section class="hero">
+        <img src="~/images/GUCCI/G4/Gucci-Guilty-Black-75ml.jpg" alt="Perfume Collection">
+        <div class="hero-content">
+            <a href="#" class="cta-button">Shop Now</a>
+        </div>
+    </section>
+
+    <section class="featured-products">
+        <h2>Featured Products</h2>
+        <div class="product-carousel">
+            <div class="product-item">
+                <img src="~/images/GUCCI/G1/gucci-flora-gorgeous-magnolia-1_afb7f7c5fca14174b0e97d08c414363b_master.jpg" alt="Product 1">
+                <h3>Product</h3>
+                <p>$10.00</p>
+                <button class="add-to-cart-btn" data-product-id="1">Add to Cart</button>
+            </div>
+            <div class="product-item">
+                <img src="~/images/Versace/V3/Nuoc-Hoa-Versace-Eros-Eau-De-Parfum-mifashop-1.jpg" alt="Product 2">
+                <h3>Product 2</h3>
+                <p>$20.00</p>
+                <button class="add-to-cart-btn" data-product-id="2">Add to Cart</button>
+            </div>
+            <!-- More product items here -->
+        </div>
+    </section>
+
+    <section class="special-offers">
+        <h2>Special Offers</h2>
+        <div class="offers">
+            <!-- Offer items here -->
+        </div>
+    </section>
+
+    <section class="categories">
+        <h2>Shop by Category</h2>
+        <div class="category-links">
+            <a href="#"><img src="~/images/Versace/V1/images.jpg" alt="Men's Perfume">Men's</a>
+            <a href="#"><img src="~/images/Calvin Klein/CK1/images.jpg" alt="Women's Perfume">Women's</a>
+            <a href="#"><img src="~/images/GUCCI/G1/gucci-flora-gorgeous-magnolia-1_afb7f7c5fca14174b0e97d08c414363b_master.jpg" alt="Unisex Perfume">Unisex</a>
+        </div>
+    </section>
+
+    <section class="newsletter">
+        <h2>Stay Updated</h2>
+        <form>
+            <input type="email" placeholder="Enter your email">
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <p>Contact Us: 123-456-7890 | email@example.com</p>
+            <div class="social-links">
+                <a href="#">Facebook</a>
+                <a href="#">Instagram</a>
+                <a href="#">Tiktok</a>
+            </div>
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms & Conditions</a>
+                <a href="#">FAQ</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

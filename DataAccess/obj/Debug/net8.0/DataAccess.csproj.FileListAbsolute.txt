@@ -1,0 +1,16 @@
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\Kỳ_7\PRN221\PerfumStore_Group5\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
